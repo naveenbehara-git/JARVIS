@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS AI Assistant",
+  "description": "An immersive, futuristic virtual assistant interface inspired by Iron Man's JARVIS, featuring real-time AI capabilities, voice interaction, and production-ready .NET MAUI Blazor Hybrid codebase templates.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
