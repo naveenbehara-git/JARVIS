@@ -12,7 +12,7 @@ const PORT = 3000;
 app.use(express.json());
 
 // Initialize Gemini API
-const geminiApiKey = process.env.GEMINI_API_KEY;
+const geminiApiKey = "AQ.Ab8RN6L1b3-gw695gsxDi2u5-hvTR0qnBLxyIQlAvmCybZLJTg";
 let ai: GoogleGenAI | null = null;
 
 if (geminiApiKey) {
